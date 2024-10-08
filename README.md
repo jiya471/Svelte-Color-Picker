@@ -1,0 +1,1 @@
+# Svelte-Color-Picker
